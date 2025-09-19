@@ -1,10 +1,5 @@
 {
-    "siteName": "影视聚合 - tv.wch123.top",
-  "announcement": "",
-  "image_proxy": "",
-  "douban_proxy": "",
-  "disable_yellow": false,
-  "homepage_password": ""
+    "siteName": "影视聚合 - 无广告 - tv.wch123.top",
   "cache_time": 7200,
   "api_site": {
     "dyttzy": {
